@@ -10,6 +10,7 @@ This is a candidate search application that will be deployed to Render. This sea
 📽️- [Demo Link of Candidate Search application](https://candidate-search-kyle-style.onrender.com/) <br/>
 ## 🎨 **Mock-Up**
 ![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## Table of Contents 📋 
